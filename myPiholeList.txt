@@ -1,2 +1,12 @@
-pagead2.googlesyndication.com
-doubleclick.net
+# ------------------------------------[UPDATE]--------------------------------------
+# Title: TrogdorsArm Custom Pi-hole Block List
+# Total number of network filters: 2
+# ------------------------------------[SUPPORT]-------------------------------------
+# You can support by:
+# - reporting false positives
+# -------------------------------------[INFO]---------------------------------------
+#
+# Ad list
+# ------------------------------------[FILTERS]-------------------------------------
+0.0.0.0 pagead2.googlesyndication.com
+0.0.0.0 doubleclick.net
